@@ -9,14 +9,11 @@ body {
 }
 
 /* menù di navigazione */
-nav ul {
-  background-color: red;
-}
-
 .menu {
   margin-left: 90%;
+  position: fixed;
+  z-index: 2;
 }
-
 
 nav li {
   display: inline-block;
