@@ -10,10 +10,12 @@ body {
 
 section {
   height: 100vh;
+  position: relative;
 }
 
 #superga {
   background-color: red;
+  color: yellow;
 }
 
 #tommy {
@@ -22,4 +24,20 @@ section {
 
 #converse {
   background-color: yellow;
+}
+
+.shoe {
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.shoe img {
+  width: 70%;
+}
+
+.shoe h1 {
+  font-size: 35px;
 }
