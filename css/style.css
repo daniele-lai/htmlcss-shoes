@@ -20,10 +20,12 @@ section {
 
 #tommy {
   background-color: green;
+  color: yellow;
 }
 
 #converse {
   background-color: yellow;
+  color: green;
 }
 
 .shoe {
