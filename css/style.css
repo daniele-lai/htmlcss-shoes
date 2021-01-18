@@ -26,8 +26,11 @@ nav li {
   font-size: 12px;
   background-color: white;
   margin-top: 12px;
-  color: black;
+}
+
+nav a {
   text-decoration: none;
+  color: black;
 }
 
 /* Corpo della pagina */
